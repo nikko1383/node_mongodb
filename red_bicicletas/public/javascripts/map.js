@@ -5,5 +5,5 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 var marker = L.marker([51.5, -0.09]).addTo(map);
-var marker = L.marker([51.6, -0.10]).addTo(map);
-var marker = L.marker([51.4, -0.08]).addTo(map);
+// var marker = L.marker([51.6, -0.10]).addTo(map);
+// var marker = L.marker([51.4, -0.08]).addTo(map);
